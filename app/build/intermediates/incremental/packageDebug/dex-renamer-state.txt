@@ -1,0 +1,4 @@
+#Wed Jul 13 11:01:07 CST 2016
+base.0=/Users/liu/Desktop/git/DnxPinnerSectionListView/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/Users/liu/Desktop/git/DnxPinnerSectionListView/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
